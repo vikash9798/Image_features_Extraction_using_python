@@ -127,4 +127,4 @@ OpenCV Documentation: https://docs.opencv.org
 scikit-image Tutorials: https://scikit-image.org/docs/stable
 
 TensorFlow Models Hub: https://tfhub.dev
-Author: Vikash KUmar
+
