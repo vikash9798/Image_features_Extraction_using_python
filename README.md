@@ -1,5 +1,5 @@
 # Image_features_Extraction_using_python
-Project Description
+Project Description:
 The Image Feature Extraction Toolkit is a comprehensive Python library designed to automate the extraction of visual features from digital images for computer vision applications. This toolkit bridges the gap between traditional image processing and modern deep learning by providing:
 Core Capabilities
 Multi-Domain Feature Extraction: Supports color, texture, shape, frequency, and deep learning features in a unified API
